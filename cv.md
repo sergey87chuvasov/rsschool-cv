@@ -31,4 +31,14 @@
 const isPalindrome = (words) => words.toLowerCase() === words.split('').reverse().join('');
 
 ```
+## __Experience__
+###### __No front-end development experience__
+
+## __Education__ 
+- __University:__ Belarusian State Academy of Telecommunications
+- __Courses:__ Website Development with HTML,CSS & Javascript (IT Academy)
+  
+
+## __English__
+__A2__ (Elementary)
 
