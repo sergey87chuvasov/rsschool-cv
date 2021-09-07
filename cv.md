@@ -11,3 +11,24 @@
 ## __About Me__
 
 ##### I like tasks in which you need to show individual creativity. I work best as a team, value honesty and work ethic.
+
+## __Skills__
+- HTML
+- CSS/SCSS
+- JavaScript (Basic)
+- Git
+- Github 
+- BEM
+- Bootstrap 
+- Figma 
+- OOP 
+- DOM 
+- PUG
+- Start learning React/Redux
+
+## __Code Example__
+```
+const isPalindrome = (words) => words.toLowerCase() === words.split('').reverse().join('');
+
+```
+
